@@ -3,6 +3,7 @@
 A modular Python project for web scraping LinkedIn job postings and processing them with LLM-based insights. Built with async scraping, Streamlit dashboard, and structured for maintainability and scalability.
 
 ## Repo Structure
+``
 WebScrappingLLM/
 │
 ├─ scrapeLinkedIn/              # Scraper module
@@ -14,6 +15,7 @@ WebScrappingLLM/
 ├─ app.py                       # Streamlit dashboard / main entry point
 ├─ requirements.txt             # Python dependencies
 └─ README.md
+``
 
 ## Details:
 
