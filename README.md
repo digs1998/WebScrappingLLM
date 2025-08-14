@@ -30,10 +30,10 @@ requirements.txt: Python packages required (e.g., streamlit, pandas, playwright,
 
 Clone the repository:
 
-``
+```
 git clone https://github.com/digs1998/WebScrappingLLM.git
 cd WebScrappingLLM
-``
+```
 
 Create a virtual environment (optional but recommended):
 
