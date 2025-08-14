@@ -1,6 +1,6 @@
 streamlit
 openai
-crawlee
+crawlee[all]
 asyncio
 pandas
 beautifulsoup4
