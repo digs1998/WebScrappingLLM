@@ -1,7 +1,6 @@
 streamlit
 openai
 crawlee
-playwright
 asyncio
 pandas
 beautifulsoup4
