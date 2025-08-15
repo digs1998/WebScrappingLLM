@@ -6,3 +6,4 @@ pandas
 beautifulsoup4
 dotenv
 nest_asyncio
+crawlee[playwright]
