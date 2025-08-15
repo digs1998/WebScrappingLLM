@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=input("Enter OPENAI API Key here: "))
 
 def readJobData(csv_path: str) -> pd.DataFrame:
     """Read CSV containing job postings."""
